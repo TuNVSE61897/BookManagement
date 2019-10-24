@@ -1,3 +1,9 @@
+Technologies used: 
+- C#, SQL Server
+- ASP.NET 4.5, Web Service, Entity Framework, LinQ, WCF
+- DxExpress
+- Manage code through GitHub
+
 This project will aim at creation of a Book Sale managing system. This will be accessible to all users who have a valid Username and Password. This system provides the following facilities:
 •	View and Manage all available Books, Authors, Categories, Publishers, Orders.
 •	Add, Delete, Update Book, Author, Category, Publisher.
